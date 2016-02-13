@@ -1,3 +1,3 @@
-public WSQ08{
+class WSQ08{
   
 }
